@@ -1,0 +1,101 @@
+{
+  "basics": {
+    "name": "Tengyang (Cheyne) Chen",
+    "label": "Software Engineer",
+    "picture": "https://avatars.githubusercontent.com/u/6974120?v=4",
+    "website": "https://tengyang-chen.github.io",
+    "summary": "I am currently a Software Development Engineer at Cztv.com (ZRTG), Happy to refer!",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Hangzhou",
+      "countryCode": "",
+      "region": "CN"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "tengyang-chen",
+        "url": "http://github.com/tengyang-chen"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "Software Development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Deep Learning",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Data Science",
+      "keywords": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "Java",
+        "Python",
+        "Shell scripting"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level":"",
+      "keywords": [
+        "TensorFlow",
+        "PyTorch",
+        "Symfony",
+        "Django"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "",
+      "keywords": [
+        "Docker",
+        "Kubernetes"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Tsukuba",
+      "area": "Master's Program in Intelligent Interaction Technologies of the Graduate School of Systems and Information Engineering",
+      "endDate": "March 2021"
+    },
+    {
+      "institution": " Northeastern University ",
+      "area": "Bachelor of Software Engineering",
+      "endDate": "July 2017"
+    }
+  ],
+  "work": [
+    {
+      "company": "Cztv.com (ZRTG)",
+      "position": "AI Engineer",
+      "startDate": "Mar. 2023",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Hisign Technology Co., Ltd.",
+      "position": "Data Engineer",
+      "startDate": "May 2021",
+      "endDate": "Mar. 2023",
+      "summary": "",
+      "highlights": [
+      ]
+    }
+  ]
+}
